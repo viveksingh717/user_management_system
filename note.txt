@@ -1,0 +1,16 @@
+#Database and table name:
+1- users table
+2- admin table
+3- visitors table
+4- notification table
+5- feedback table
+6- notes table
+
+Array
+(
+    [name] => vivek
+    [email] => vivek@gmail.com
+    [password] => vivek777
+    [cpassword] => vivek777
+    [action] => register
+)
